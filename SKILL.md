@@ -3,8 +3,9 @@ name: carson-monologue-structure
 description: 'Build comedy sequences with momentum using Carson''s four-phase architecture: Opening → Body → Callback → Button.'
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3543
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - callbacks
